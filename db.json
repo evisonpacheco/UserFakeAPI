@@ -1,7 +1,18 @@
 {
   "user": [
     {
-      
+      "name": "pontotel",
+      "email": "pontotel@gmail.com",
+      "cpf": 12345678900,
+      "pis": 12345,
+      "password": "pontotel",
+      "country": "brasil",
+      "state": "sao paulo",
+      "city": "sao paulo",
+      "cep": 6600000,
+      "street": "enderenco ficticio",
+      "number": 13,
+      "complement": "complemento ficticio"
     }
   ]
 }
